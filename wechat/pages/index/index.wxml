@@ -1,0 +1,7 @@
+
+<view class="container">
+  <button type="primary" bindtap="lightGreenOn">绿灯开</button>
+  <view style="height: 10px;"></view>
+  <button type="primary" bindtap="lightBlueOn">蓝灯开</button>
+  
+</view>
